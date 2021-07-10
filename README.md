@@ -27,7 +27,8 @@ website.
 
 ---------------
 
-# For newcomers This is based off the Brunch with [Whey
+# For newcomers
+This is based off the Brunch with [Whey
 Protein](https://github.com/dobromir-hristov/brunch-with-whey-protein) skeleton
 as well as the [Brunch
 Nunjucks](https://github.com/dobromir-hristov/brunch-with-whey-protein)
